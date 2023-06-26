@@ -1,0 +1,27 @@
+.img-contain{
+    width: 300px;
+    height: 300px;
+}
+
+#container{
+    justify-content: center;
+    margin: 30px 0px;
+    gap: 10px;
+    display: flex;
+    flex-flow: wrap;
+}
+
+#search{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sch{
+    height: 30px;
+    border-radius: 5px;
+}
+
+.con{
+    font-weight: bold;
+}
